@@ -1,0 +1,28 @@
+C:\Users\p.Lebedev\source\repos\ciys\ciys\bin\ciys.dll.config
+C:\Users\p.Lebedev\source\repos\ciys\ciys\bin\ciys.dll
+C:\Users\p.Lebedev\source\repos\ciys\ciys\bin\ciys.pdb
+C:\Users\p.Lebedev\source\repos\ciys\ciys\obj\Debug\ciys.csprojAssemblyReference.cache
+C:\Users\p.Lebedev\source\repos\ciys\ciys\obj\Debug\ciys.csproj.CoreCompileInputs.cache
+C:\Users\p.Lebedev\source\repos\ciys\ciys\obj\Debug\ciys.dll
+C:\Users\p.Lebedev\source\repos\ciys\ciys\obj\Debug\ciys.pdb
+Z:\Работа\project\ciys\bin\ciys.dll.config
+Z:\Работа\project\ciys\bin\ciys.dll
+Z:\Работа\project\ciys\bin\ciys.pdb
+Z:\Работа\project\ciys\obj\Debug\ciys.csproj.AssemblyReference.cache
+Z:\Работа\project\ciys\obj\Debug\ciys.csproj.CoreCompileInputs.cache
+Z:\Работа\project\ciys\obj\Debug\ciys.dll
+Z:\Работа\project\ciys\obj\Debug\ciys.pdb
+A:\Проекты работа\ciys\bin\ciys.dll.config
+A:\Проекты работа\ciys\bin\ciys.dll
+A:\Проекты работа\ciys\bin\ciys.pdb
+A:\Проекты работа\ciys\obj\Debug\ciys.csproj.AssemblyReference.cache
+A:\Проекты работа\ciys\obj\Debug\ciys.csproj.CoreCompileInputs.cache
+A:\Проекты работа\ciys\obj\Debug\ciys.dll
+A:\Проекты работа\ciys\obj\Debug\ciys.pdb
+A:\Проекты работа\Farmat\bin\Farmat.dll.config
+A:\Проекты работа\Farmat\bin\Farmat.dll
+A:\Проекты работа\Farmat\bin\Farmat.pdb
+A:\Проекты работа\Farmat\obj\Debug\ciys.csproj.AssemblyReference.cache
+A:\Проекты работа\Farmat\obj\Debug\ciys.csproj.CoreCompileInputs.cache
+A:\Проекты работа\Farmat\obj\Debug\Farmat.dll
+A:\Проекты работа\Farmat\obj\Debug\Farmat.pdb

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Александр\Downloads\Farmat</_PublishTargetUrl>
+    <History>True|2024-11-05T11:46:19.6374614Z||;True|2024-11-05T16:38:23.3512819+05:00||;True|2023-06-30T12:33:44.9571941+05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ciys.dll">
+      <publishTime>06/30/2023 11:33:42</publishTime>
+    </File>
+    <File Include="bin/ciys.pdb">
+      <publishTime>06/30/2023 11:33:42</publishTime>
+    </File>
+    <File Include="bin/Farmat.dll">
+      <publishTime>05/11/2024 16:38:22</publishTime>
+    </File>
+    <File Include="bin/Farmat.pdb">
+      <publishTime>05/11/2024 16:38:22</publishTime>
+    </File>
+    <File Include="lup.png">
+      <publishTime>03/27/2020 17:44:59</publishTime>
+    </File>
+    <File Include="main.aspx">
+      <publishTime>05/11/2024 16:12:51</publishTime>
+    </File>
+    <File Include="Styles.css">
+      <publishTime>03/27/2020 18:58:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/05/2024 16:46:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

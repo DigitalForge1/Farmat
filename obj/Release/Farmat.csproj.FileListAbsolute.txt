@@ -1,0 +1,7 @@
+A:\Проекты работа\ciys — копия — копия\bin\Farmat.dll.config
+A:\Проекты работа\ciys — копия — копия\bin\Farmat.dll
+A:\Проекты работа\ciys — копия — копия\bin\Farmat.pdb
+A:\Проекты работа\ciys — копия — копия\obj\Release\Farmat.csproj.AssemblyReference.cache
+A:\Проекты работа\ciys — копия — копия\obj\Release\Farmat.csproj.CoreCompileInputs.cache
+A:\Проекты работа\ciys — копия — копия\obj\Release\Farmat.dll
+A:\Проекты работа\ciys — копия — копия\obj\Release\Farmat.pdb

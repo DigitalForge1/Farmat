@@ -1,0 +1,14 @@
+A:\Проекты работа\ciys — копия — копия\bin\Farmat.dll.config
+A:\Проекты работа\ciys — копия — копия\bin\Farmat.dll
+A:\Проекты работа\ciys — копия — копия\bin\Farmat.pdb
+A:\Проекты работа\ciys — копия — копия\obj\Debug\Farmat.csproj.AssemblyReference.cache
+A:\Проекты работа\ciys — копия — копия\obj\Debug\Farmat.csproj.CoreCompileInputs.cache
+A:\Проекты работа\ciys — копия — копия\obj\Debug\Farmat.dll
+A:\Проекты работа\ciys — копия — копия\obj\Debug\Farmat.pdb
+A:\Проекты работа\Farmat\bin\Farmat.dll.config
+A:\Проекты работа\Farmat\bin\Farmat.dll
+A:\Проекты работа\Farmat\bin\Farmat.pdb
+A:\Проекты работа\Farmat\obj\Debug\Farmat.csproj.AssemblyReference.cache
+A:\Проекты работа\Farmat\obj\Debug\Farmat.csproj.CoreCompileInputs.cache
+A:\Проекты работа\Farmat\obj\Debug\Farmat.dll
+A:\Проекты работа\Farmat\obj\Debug\Farmat.pdb

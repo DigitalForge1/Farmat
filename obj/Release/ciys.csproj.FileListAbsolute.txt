@@ -1,0 +1,7 @@
+Z:\Работа\project\ciys\bin\ciys.dll.config
+Z:\Работа\project\ciys\bin\ciys.dll
+Z:\Работа\project\ciys\bin\ciys.pdb
+Z:\Работа\project\ciys\obj\Release\ciys.csproj.AssemblyReference.cache
+Z:\Работа\project\ciys\obj\Release\ciys.csproj.CoreCompileInputs.cache
+Z:\Работа\project\ciys\obj\Release\ciys.dll
+Z:\Работа\project\ciys\obj\Release\ciys.pdb
